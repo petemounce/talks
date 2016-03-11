@@ -70,4 +70,4 @@
 #*.RTF   diff=astextplain
 
 *.sh text eol=lf
-.gitignore text eol=crlf
+.gitignore text eol=lf
